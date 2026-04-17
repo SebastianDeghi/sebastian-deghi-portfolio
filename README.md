@@ -18,4 +18,4 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás mi trabajo organizad
 ## 📫 Contacto
 - GitHub: [@SebastianDeghi](https://github.com/SebastianDeghi)
 - LinkedIn: [@sebastian-deghi](https://www.linkedin.com/in/sebastian-deghi/)
-- Google Scholar: [@Sebastian Deghi](https://scholar.google.com/citations?user=3Nq5hTIAAAAJ&hl=en)
+- Google Scholar: [@Sebastian E. Deghi](https://scholar.google.com/citations?user=3Nq5hTIAAAAJ&hl=en)
