@@ -26,7 +26,7 @@ These projects focus on **data understanding, feature engineering, and model eva
 | 🎬 **IMDB Sentiment Analysis** | Binary sentiment classification (positive/negative) on 50,000 movie reviews. Comparison between TF-IDF and Word2Vec embeddings using models such as Logistic Regression, SVM, Random Forest, and MLP. | `NLP` `TF-IDF` `Word2Vec` `scikit-learn` `NLTK` `Gensim` `IMDB` | [Repository](https://github.com/SebastianDeghi/imdb-nlp-sentiment-analysis) |
 | 🤖 **LLMs for Sentiment Analysis** | Evaluation of four architectures for sentiment classification: BiLSTM with attention, TinyLlama 1.1B (zero-shot), GPT-Neo 1.3B (zero-shot), and fine-tuned DistilBERT. Focus on performance vs computational cost and interpretability trade-offs. | `BiLSTM` `Attention` `TinyLlama` `GPT-Neo` `BERT` `Transformers` `PyTorch` `Hugging Face` | [Repository](https://github.com/SebastianDeghi/imdb-llm-sentiment-analysis) |
 | 🌍 **Seoul Air Pollution Time Series Analysis** | Exploratory analysis and data cleaning of air quality data in Seoul (2017–2020), covering 25 monitoring stations and 6 pollutants. Includes temporal, seasonal, and spatial pattern analysis, as well as anomaly detection. | `Time Series` `EDA` `Geopandas` `Contextily` `Statsmodels` `Scipy` `Matplotlib` | [Repository](https://github.com/SebastianDeghi/seoul-air-pollution-time-series-analysis) |
-| 📈 **Madrid Air Pollution Forecasting** | Time series analysis and forecasting of NO₂ and CO levels (2001–2018). Includes stationarity testing (ADF/KPSS), seasonal decomposition, Box-Cox transformation, differencing, and ARIMA / exponential smoothing models. | `Time Series` `Forecasting` `ARIMA` `Holt-Winters` `Statsmodels` `Pmdarima` | [Repository](https://github.com/SebastianDeghi/madrid-air-pollution-forecasting) |
+| 📈 **Madrid Air Pollution Forecasting** | Time series analysis and forecasting of NO₂ and CO levels (2001–2018). Includes stationarity testing (ADF/KPSS), seasonal decomposition, Box-Cox transformation, differencing, and ARIMA / exponential smoothing models. | `Time Series` `Forecasting` `ARIMA` `Holt-Winters` `Statsmodels` `Pmdarima` | [Repository](https://github.com/SebastianDeghi/madrid-air-pollution-time-series-forecasting) |
 
 ---
 
@@ -36,10 +36,10 @@ These projects emphasize **implementation, reproducibility, and engineering best
 
 | Project | Engineering Focus | Highlights | Link |
 |--------|------------------|------------|------|
-| 🔍 **Bitcoin Fraud Detection Pipeline** | End-to-end pipeline | Data preprocessing, cross-validation pipeline, reproducible experiments | [Repository](https://github.com/SebastianDeghi/elliptic-bitcoin-fraud-detection) |
-| 🎬 **NLP Training Pipelines** | Training workflows | Hyperparameter tuning, evaluation pipelines | [Repository](https://github.com/SebastianDeghi/imdb-nlp-sentiment-analysis) |
-| 🤖 **LLM & Deep Learning Systems** | Multi-model experimentation | Zero-shot vs fine-tuning pipelines | [Repository](https://github.com/SebastianDeghi/imdb-llm-sentiment-analysis) |
-| 📈 **Time Series Forecasting System** | Prediction pipeline | ARIMA, Holt-Winters, model evaluation (RMSE, MAE) | [Repository](https://github.com/SebastianDeghi/madrid-air-pollution-forecasting) |
+| 🔍 **Bitcoin Fraud Detection Pipeline** | End-to-end pipeline | Data preprocessing, cross-validation pipeline, reproducible experiments | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
+| 🎬 **NLP Training Pipelines** | Training workflows | Hyperparameter tuning, evaluation pipelines | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
+| 🤖 **LLM & Deep Learning Systems** | Multi-model experimentation | Zero-shot vs fine-tuning pipelines | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
+| 📈 **Time Series Forecasting System** | Prediction pipeline | ARIMA, Holt-Winters, model evaluation (RMSE, MAE) | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
 
 ---
 
