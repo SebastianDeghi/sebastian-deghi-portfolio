@@ -5,7 +5,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3Nq5hTIAAAAJ&hl=en)
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás mi trabajo organizado por áreas.
+Bienvenido a mi portafolio de proyectos en ciencia de datos y sus implementaciones. Estos involucran:
+
+* Analisis e implementacion de diferentes modelos.
+* Implementacion y reproducibilidad de los modelos óptimos.  
+
+Aquí encontrarás mi trabajo organizado por áreas.
 
 ---
 
@@ -33,14 +38,6 @@ Estos proyectos enfatizan **implementación, reproducibilidad y prácticas de in
 | 🎬 **Pipelines de Entrenamiento NLP** | Flujos de trabajo de entrenamiento | Optimización de hiperparámetros, pipelines de evaluación | [Repositorio](https://github.com/SebastianDeghi/imdb-nlp-sentiment-analysis) |
 | 🤖 **Sistemas de LLM y Deep Learning** | Experimentación multi-modelo | Pipelines de zero-shot vs fine-tuning | [Repositorio](https://github.com/SebastianDeghi/imdb-llm-sentiment-analysis) |
 | 📈 **Sistema de Forecasting de Series Temporales** | Pipeline de predicción | ARIMA, Holt-Winters, evaluación de modelos (RMSE, MAE) | [Repositorio](https://github.com/SebastianDeghi/madrid-air-pollution-forecasting) |
-
----
-
-## ⚛️ Física Computacional
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| 🚧 *Próximamente* | Simulaciones de física computacional | `Python` `NumPy` `SciPy` | - |
 
 ---
 
