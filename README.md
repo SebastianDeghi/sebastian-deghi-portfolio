@@ -1,8 +1,8 @@
-# 👨‍💻 Sebastián Deghi — Project Portfolio
+# 👨‍💻 Sebastián Deghi — Data Science Project Portfolio
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-deghi/)  
-[![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-deghi/)
+[![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3Nq5hTIAAAAJ&hl=en)
 
 Welcome to my Data Science and Machine Learning Engineering portfolio.
