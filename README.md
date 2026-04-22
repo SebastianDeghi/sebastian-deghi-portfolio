@@ -1,3 +1,5 @@
+# 👨‍💻 Sebastián Deghi — Project Portfolio
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-deghi/)  
 [![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)  
@@ -82,4 +84,3 @@ These projects emphasize **implementation, reproducibility, and engineering best
 ## 📄 License
 
 This portfolio is licensed under the **MIT License**.
-
